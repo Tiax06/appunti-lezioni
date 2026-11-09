@@ -2,7 +2,7 @@ import flet as ft
 
 from model import Model
 from view import View
-from controller import Controller
+from week07.controller import Controller
 
 def main(page : ft.Page):
 
